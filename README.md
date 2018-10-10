@@ -1,5 +1,10 @@
 # CS2014 Assignments
 
+# This should be obvious but this is just the readme of the assignemnts directory I git pulled from....
+# Alot of the code etc. comes from there too and other sources and isnt owned by me
+# The modifications to the code to get it to work is what I did
+# i thought the stuff was cool, hence why I put it here
+
 This is the directory of assignments for [CS2014](https://down.dsg.cs.tcd.ie/cs2014).
 Each subdirectory has a README.md, a bit of related code and a Makefile.
 
